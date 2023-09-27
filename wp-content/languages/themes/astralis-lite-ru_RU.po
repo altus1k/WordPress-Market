@@ -1,0 +1,442 @@
+# Translation of Themes - Astralis Lite in Russian
+# This file is distributed under the same license as the Themes - Astralis Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-14 06:40:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Astralis Lite\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Astralis Lite eSports is a popular Esports Gaming WordPress Theme that specializes in flaunting an extremely impressive appeal for the gaming or sports industry. It does not matter if you are a sports item manufacturer or sports item or apparel seller, or just a sports consultancy service provider; this theme will always help you out. Precisely, this theme will fulfill your every eSports business needs with ease. Also, you can sell games with this theme. This is a ready-made solution for the businessmen out there, and you can get started with it almost immediately. If you are a newbie or a neophyte user, this is the ideal solution for your business needs. Demo: http://www.gracethemesdemo.com/astralis/"
+msgstr "Astralis Lite eSports — популярная тема WordPress для киберспортивных игр, которая специализируется на выставлении напоказ чрезвычайно впечатляющей привлекательности для игровой или спортивной индустрии. Неважно, являетесь ли вы производителем спортивных товаров, продавцом спортивных товаров или одежды или просто консультируете по вопросам спорта; эта тема всегда выручит вас. Именно эта тема с легкостью удовлетворит все ваши потребности в киберспорте. Также вы можете продавать игры с этой темой. Это готовое решение для бизнесменов, и вы можете приступить к работе практически сразу. Если вы новичок или неопытный пользователь, это идеальное решение для нужд вашего бизнеса. Демо: http://www.gracethemesdemo.com/astralis/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Astralis Lite"
+msgstr "Astralis Lite"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Рубрика"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Поиск…"
+
+#. translators: %s: search term
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поможет поиск."
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но по вашему запросу ничего не найдено. Пожалуйста, попробуйте поискать с другим запросом."
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать вашу первую запись? Начните здесь."
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/customizer.php:648
+msgid "Check to hide post category from single"
+msgstr "Отметьте, чтобы скрыть рубрику одиночной записи"
+
+#: inc/customizer.php:636
+msgid "Check to hide post date from single"
+msgstr "Отметьте, чтобы скрыть дату одиночной записи"
+
+#: inc/customizer.php:626
+msgid "Posts Single Settings"
+msgstr "Настройки одиночной записи"
+
+#: inc/customizer.php:620
+msgid "No Excerpt"
+msgstr "Нет отрывка"
+
+#: inc/customizer.php:619
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: inc/customizer.php:618
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customizer.php:615
+msgid "Posts Content"
+msgstr "Содержимое записей"
+
+#: inc/customizer.php:598
+msgid "Excerpt length"
+msgstr "Длина отрывка"
+
+#: inc/customizer.php:585
+msgid "Blog Posts Excerpt Settings"
+msgstr "Настройки отрывка записей блога"
+
+#: inc/customizer.php:578
+msgid "Check to hide post featured image"
+msgstr "Отметьте, чтобы скрыть Изображение записи в записях"
+
+#: inc/customizer.php:568
+msgid "Posts Featured image"
+msgstr "Изображение записи в записях"
+
+#: inc/customizer.php:560
+msgid "Check to hide post category"
+msgstr "Отметьте, чтобы скрыть рубрику записи"
+
+#: inc/customizer.php:548
+msgid "Check to hide post date"
+msgstr "Отметьте, чтобы скрыть дату записи"
+
+#: inc/customizer.php:538
+msgid "Blog Meta Options"
+msgstr "Мета-параметры блога"
+
+#: inc/customizer.php:534
+msgid "Blog Posts Settings"
+msgstr "Настройки записей блога"
+
+#: inc/customizer.php:509
+msgid "Enter read more button text"
+msgstr "Введите текст кнопки Читать далее"
+
+#: inc/customizer.php:470
+msgid "Enter sub title here"
+msgstr "Введите подзаголовок здесь"
+
+#: inc/customizer.php:458
+msgid "Select pages from the dropdown for Best Gaming Company sections"
+msgstr "Выберите страницы из раскрывающегося списка для разделов Лучшая игровая компания"
+
+#: inc/customizer.php:457
+msgid "Best Gaming Company Sections"
+msgstr "Разделы Лучшая игровая компания"
+
+#: inc/customizer.php:430 inc/customizer.php:492
+msgid "Circle box excerpt length"
+msgstr "Длина отрывка круглого блока"
+
+#: inc/customizer.php:363
+msgid "Select pages from the dropdown for fifth column services"
+msgstr "Выберите страницы из раскрывающегося списка для услуг на пять столбцов."
+
+#: inc/customizer.php:362
+msgid "Fifth Column Services"
+msgstr "Услуги на пять столбцов"
+
+#: inc/customizer.php:355 inc/customizer.php:450 inc/customizer.php:524
+msgid "Check To Show This Section"
+msgstr "Отметьте, чтобы показывать этот раздел"
+
+#: inc/customizer.php:340
+msgid "Add button link here"
+msgstr "Добавить ссылку кнопки здесь"
+
+#: inc/customizer.php:316 inc/customizer.php:328
+msgid "Enter button name here"
+msgstr "Введите название кнопки здесь"
+
+#: inc/customizer.php:299
+msgid "Slider Excerpt length"
+msgstr "Длинна отрывка слайдера"
+
+#: inc/customizer.php:288
+msgid "Select page for slide 3:"
+msgstr "Выберите страницу для слайда 3:"
+
+#: inc/customizer.php:276
+msgid "Select page for slide 2:"
+msgstr "Выберите страницу для слайда 2:"
+
+#: inc/customizer.php:264
+msgid "Select page for slide 1:"
+msgstr "Выберите страницу для слайда 1:"
+
+#: inc/customizer.php:252
+msgid "Default image size for slider is 1400 x 770 pixel."
+msgstr "Размер изображения по умолчанию для слайдера составляет 1400x770 пикселей."
+
+#: inc/customizer.php:250
+msgid "Front Slider Settings"
+msgstr "Настройки переднего слайдера"
+
+#: inc/customizer.php:243
+msgid "Check To show Header contact info"
+msgstr "Отметьте, чтобы показать контактную информацию в заголовке"
+
+#: inc/customizer.php:229
+msgid "Add instagram link here"
+msgstr "Добавить ссылку Instagram здесь"
+
+#: inc/customizer.php:218
+msgid "Add linkedin link here"
+msgstr "Добавьте ссылку на LinkedIn здесь"
+
+#: inc/customizer.php:206
+msgid "Add twitter link here"
+msgstr "Добавьте ссылку на Twitter здесь"
+
+#: inc/customizer.php:195
+msgid "Add facebook link here"
+msgstr "Добавьте ссылку на Facebook здесь"
+
+#: inc/customizer.php:184
+msgid "Enter email id here"
+msgstr "Введите id email здесь"
+
+#: inc/customizer.php:173
+msgid "Enter phone number here"
+msgstr "Введите номер телефона здесь"
+
+#: inc/customizer.php:161
+msgid "Header Contact Details"
+msgstr "Контактный данные в заголовке"
+
+#: inc/customizer.php:152
+msgid "Navigation Hover/Active Color"
+msgstr "Цвет навигации при наведении/активный"
+
+#: inc/customizer.php:138
+msgid "Navigation font Color"
+msgstr "Цвет шрифта навигации"
+
+#: inc/customizer.php:125
+msgid "Next Color Options"
+msgstr "Настройки следующего цвета"
+
+#: inc/customizer.php:112
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: inc/customizer.php:101
+msgid "check for box layout"
+msgstr "отметьте для макета блока"
+
+#: inc/customizer.php:100
+msgid "Check to Show Box Layout"
+msgstr "Отметьте, чтобы показать макет блока"
+
+#: inc/customizer.php:89
+msgid "Site Layout Settings"
+msgstr "Настройки макета сайта"
+
+#: inc/customizer.php:85
+msgid "Astralis Lite Theme Settings"
+msgstr "Настройки темы Astralis Lite"
+
+#: inc/about-themes.php:42
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/about-themes.php:39
+msgid "Fully compatible with WooCommerce plugin. Just install the plugin and turn your site into a full featured online shop and start selling products."
+msgstr "Полная совместимость с плагином WooCommerce. Просто установите плагин и превратите свой сайт в полнофункциональный интернет-магазин и начинайте продавать товары."
+
+#: inc/about-themes.php:38
+msgid "E-commerce"
+msgstr "Электронная коммерция"
+
+#: inc/about-themes.php:35
+msgid "Our themes are tested in all mordern web browsers and compatible with the latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr "Наши темы проверены во всех современных браузерах, включая Chrome, Firefox, Safari, Opera, IE11 и выше, и совместимы с их последними версиями."
+
+#: inc/about-themes.php:34
+msgid "Cross Browser Compatible"
+msgstr "Совместимость с браузерами"
+
+#: inc/about-themes.php:31
+msgid "The themes layout will automatically adjust and fit on any screen resolution and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr "Разметка тем автоматически подстраивается под любое разрешение экрана и отлично смотрится на любом устройстве. Полностью оптимизировано под iPhone и iPad."
+
+#: inc/about-themes.php:30
+msgid "Responsive Ready"
+msgstr "Адаптивный дизайн"
+
+#: inc/about-themes.php:27
+msgid "The built-in customizer panel quickly change aspects of the design and display changes live before saving them."
+msgstr "Встроенная панель настройщика быстро меняет дизайн и отображает изменения в реальном времени перед их сохранением."
+
+#: inc/about-themes.php:26
+msgid "Theme Customizer"
+msgstr "Настройки темы"
+
+#: inc/about-themes.php:23
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/about-themes.php:21
+msgid "Astralis Lite eSports is a popular Esports Gaming WordPress Theme that specializes in flaunting an extremely impressive appeal for the gaming or sports industry. It does not matter if you are a sports item manufacturer or sports item or apparel seller, or just a sports consultancy service provider; this theme will always help you out. Precisely, this theme will fulfill your every eSports business needs with ease. Also, you can sell games with this theme. This is a ready-made solution for the businessmen out there, and you can get started with it almost immediately. If you are a newbie or a neophyte user, this is the ideal solution for your business needs."
+msgstr "Astralis Lite eSports — популярная тема WordPress для киберспортивных игр, которая специализируется на выставлении напоказ чрезвычайно впечатляющей привлекательности для игровой или спортивной индустрии. Неважно, являетесь ли вы производителем спортивных товаров, продавцом спортивных товаров или одежды или просто консультируете по вопросам спорта; эта тема всегда выручит вас. Именно эта тема с легкостью удовлетворит все ваши потребности в киберспорте. Также вы можете продавать игры с этой темой. Это готовое решение для бизнесменов, и вы можете приступить к работе практически сразу. Если вы новичок или неопытный пользователь, это идеальное решение для нужд вашего бизнеса."
+
+#: inc/about-themes.php:11 inc/about-themes.php:18
+msgid "About Theme Info"
+msgstr "Информация о теме"
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующее <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущее"
+
+#: image.php:20
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Опубликовано <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> в <a href=\"%3$s\">%4$s &times; %5$s</a> в <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. Translators: If there are any character that are not supported by Barlow
+#. Condensed, trsnalate this to off, do not translate into your own language.
+#: functions.php:134
+msgctxt "barlowcondensed:on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are any character that are not supported by Poppins,
+#. trsnalate this to off, do not translate into your own language.
+#: functions.php:127
+msgctxt "Poppins:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:107
+msgid "Footer Widget 4"
+msgstr "Виджет 4 подвала"
+
+#: functions.php:97
+msgid "Footer Widget 3"
+msgstr "Виджет 3 подвала"
+
+#: functions.php:87
+msgid "Footer Widget 2"
+msgstr "Виджет 2 подвала"
+
+#: functions.php:78 functions.php:88 functions.php:98 functions.php:108
+msgid "Appears on footer"
+msgstr "Появиться в подвале"
+
+#: functions.php:77
+msgid "Footer Widget 1"
+msgstr "Виджет 1 подвала"
+
+#: functions.php:68
+msgid "Appears on blog page sidebar"
+msgstr "Появится на боковой панели страницы блога"
+
+#: functions.php:67
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:48
+msgid "Theme by Grace Themes"
+msgstr "Тема от Grace Themes"
+
+#: customize-pro/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: customize-pro/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: content.php:50
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:42
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: content-single.php:16 content.php:24
+msgid ", "
+msgstr ", "
+
+#: content-page.php:24 content-search.php:39 content-single.php:35 image.php:30
+#: image.php:62
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-page.php:19 content-search.php:28 content-single.php:25
+#: content.php:53 image.php:56 template-full-width.php:24
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One Comments on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s$s&rdquo;"
+
+#: 404.php:19
+msgid "Looks like you have taken a wrong turn....Dont worry... it happens to the best of us."
+msgstr "Кажется, вы ошиблись… Не волнуйтесь… это случается с лучшими из нас."
+
+#: 404.php:16
+msgid "404 Not Found"
+msgstr "404 не найдено"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://gracethemes.com/"
+msgstr "https://gracethemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Grace Themes"
+msgstr "Grace Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://gracethemes.com/themes/free-esports-gaming-wordpress-theme/"
+msgstr "https://gracethemes.com/themes/free-esports-gaming-wordpress-theme/"
